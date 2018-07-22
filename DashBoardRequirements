@@ -1,0 +1,12 @@
+1- Le nombre d'inscrits sur la plateforme c.à.d le nombre de joueurs.
+ On devrait aussi être capable d'avoir les joueurs actifs sur un intervale donné (par jour/semaine/mois).
+2- Le nombre de matchs joué sur la plateforme.
+En gros il faudrait qu'on puisse ressortir la statistique par jour/mois/semaine
+3- Le nombre de joueurs qui se sont déja qualifiés pour être en ligue 1/ligue 2. Il faudrait qu'on ait la possibilité d'avoir
+cette stat par semaine (c.à.d le nombre de joueurs qui se sont qualifiés en ligue 2 sur la semaine courante)
+4- Les meilleurs joueurs par jeux vidéos. Il faudrait aussi prévoir une statistique globale ou bien par mois ou par semaine.
+En gros ici tu classe par ordre decroissant sur les points qu'ils ont.
+5- Le nombre de salle de jeux vidéos partenaire qu'on a. (Pour l'instant je pense pas que cette stat tu l'es donc laisse d'abord
+tomber celle ci).
+6- Pour chaque match joué, il y a des arbitres. Faudrais qu'on puisse avoir la possibilité d'obtenir les arbitres qui ont 
+arbitrés le plus de matchs par mois/semaine. (Cette stat, je pense pas que tu l'aies actuellement).
